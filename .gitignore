@@ -1,0 +1,47 @@
+# --- Hệ thống và IDE (Dùng chung) ---
+.vscode/
+.idea/
+*.swp
+*.log
+.DS_Store
+Thumbs.db
+
+# --- JAVA (OOP, Maven, NetBeans, Spring Boot) ---
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+bin/
+.metadata/
+.recommenders/
+
+# Riêng cho NetBeans (Dự án Java OOP thường dùng)
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# --- PYTHON ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+.python-version
+*.db
+*.sqlite3
+
+# --- C/C++ 
+*.exe
+*.o
+*.obj
+*.out
+/Java/Java-OOP/03-Java-OOP/FeastPrj/nbproject/private/
