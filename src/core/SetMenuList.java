@@ -33,6 +33,7 @@ public class SetMenuList extends ArrayList<SetMenu> {
         try {
             FileReader fr = new FileReader (f);
             BufferedReader br = new BufferedReader (fr);
+            br.readLine(); // bỏ qua dòng đầu chứa các tiêu đề
             String line;
             while ((line = br.readLine()) != null) {
                 String[] parts = line.split(",");
