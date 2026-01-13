@@ -17,7 +17,7 @@ public class ConsoleInputter {
         System.out.println(prompt + " (Y/N, T/F, 1/0)?: "); //gợi ý nhập 
         String data = sc.nextLine().trim().toLowerCase();  //đọc chuỗi nhập vào
         char c = data.charAt(0); //lấy ký tự đầu tiên
-        return c == 'Y' || c == 'T' || c == '1'; //trả về true/false
+        return c == 'y' || c == 't' || c == '1'; //trả về true/false
     }
 
     public static int getInt(String prompt, int min, int max) { // Nhập số nguyên trong khoảng min..max
