@@ -45,3 +45,6 @@ env/
 *.obj
 *.out
 /Java/Java-OOP/03-Java-OOP/FeastPrj/nbproject/private/
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md
