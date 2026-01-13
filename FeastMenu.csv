@@ -1,7 +1,7 @@
-Code,Name,Price,Ingredients
-PW001,Wedding party 01,3750000,+ Khai v?: S�p bong b�ng c�; Nem r�n; G?i hoa chu?i t�m th?t #+ M�n ch�nh: G� lu?c; B� s?t vang; L?u h?i s?n n?m#+ Tr�ng mi?ng: B�nh flan; tr�i c�y
-PW002,Company year end party ,2085000,+ Khai v?: S�p g� ng�; N?m b� rau m?m#+ M�n ch�nh: T�m h?p bia; B� s?t ti�u den + b�nh m�; Rau c? x�o th?p c?m; L?u g� l� �#+ Tr�ng mi?ng: Rau c�u d?a
-PW003,Birthday Party 01,1850000,+ Khai v?: G?i b� Th�i Lan; S�p cua n?m tuy?t; �? ngu?i (ch? gi� + nem chua + ch? l?a + ch? d�m + ch? qu?)#+ M�n ch�nh: G� quay + x�i l� d?a; B� n� kh? qua; L?u th�i#+ Tr�ng mi?ng: S�m b? lu?ng
-PW004,Wedding party 02,3550000,+ Khai v?: G?i c? h? d?a bao t?; �? ngu?i (ch?o t�m b?c m�a + t�m b?c c?m chi�n + ch? gi� h?i s?n + ch? m?c gi� tay)#+ M�n ch�nh: G� h?p h�nh; M?c x�o chua ng?t; C� ch?m s?t chua ng?t; L?u b� khoai m�n#+ Tr�ng mi?ng: B�nh b�ng lan flan
-PW005,Birthday Party 02,2250000,+ Khai v?: Salad s� di?p bo; S�p kem b� d?; M?c chi�n x�#+ M�n ch�nh: B� b�t t?t s?t vang; G� nu?ng ngu v?; M� � cua ph� mai#+ Tr�ng mi?ng: Mousse cam
-PW006,Meeting Party,1950000,+ Khai v?: S�p b�o ngu n?m; Nem c�ng + ch? ph?ng; G?i b� ?t chu�ng#+ M�n ch�nh: G� b� x�i nguy�n con; �?u hu h?i s?n gi?y b?c; L?u uy�n uong#+ Tr�ng mi?ng: Rau c�u son th?y
+﻿Code,Name,Price,Ingredients
+PW001,Wedding party 01,3750000,"+ Khai vị: Súp bong bóng cá; Nem rán; Gỏi hoa chuối tôm thịt #+ Món chính: Gà luộc; Bò sốt vang; Lẩu hải sản nấm#+ Tráng miệng: Bánh flan; trái cây"
+PW002,Company year end party ,2085000,"+ Khai vị: Súp gà ngô; Nộm bò rau mầm#+ Món chính: Tôm hấp bia; Bò sốt tiêu đen + bánh mì; Rau củ xào thập cẩm; Lẩu gà lá é#+ Tráng miệng: Rau câu dừa"
+PW003,Birthday Party 01,1850000,"+ Khai vị: Gỏi bò Thái Lan; Súp cua nấm tuyết; Đồ nguội (chả giò + nem chua + chả lụa + chả đùm + chả quế)#+ Món chính: Gà quay + xôi lá dứa; Bò né khổ qua; Lẩu thái#+ Tráng miệng: Sâm bổ lượng"
+PW004,Wedding party 02,3550000,"+ Khai vị: Gỏi củ hủ dừa bao tử; Đồ nguội (chạo tôm bọc mía + tôm bọc cốm chiên + chả giò hải sản + chả mực giã tay)#+ Món chính: Gà hấp hành; Mực xào chua ngọt; Cá chẽm sốt chua ngọt; Lẩu bò khoai môn#+ Tráng miệng: Bánh bông lan flan"
+PW005,Birthday Party 02,2250000,"+ Khai vị: Salad sò điệp bơ; Súp kem bí đỏ; Mực chiên xù#+ Món chính: Bò bít tết sốt vang; Gà nướng ngũ vị; Mì ý cua phô mai#+ Tráng miệng: Mousse cam"
+PW006,Meeting Party,1950000,"+ Khai vị: Súp bào ngư nấm; Nem công + chả phụng; Gỏi bò ớt chuông#+ Món chính: Gà bó xôi nguyên con; Đậu hũ hải sản giấy bạc; Lẩu uyên ương#+ Tráng miệng: Rau câu sơn thủy"
